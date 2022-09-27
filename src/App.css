@@ -1,0 +1,20 @@
+.for {
+  background-color: rgb(34, 34, 221);
+  text-align: center;
+  color: white;
+}
+.last {
+  color: rgb(0, 0, 0);
+}
+* {
+  margin: 0;
+}
+.olas {
+  color: red;
+}
+.btn {
+  background-color: #1c0707;
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px 0px 20px;
+}
